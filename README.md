@@ -8,5 +8,7 @@ WAKANDA <br>
 MR_ROBOT <br>
 FRİSTİ LEAKS <br>
 
-
+Linux Yetki Yükseltme <br>
+Windows Sızma ve Yetki Yükseltme <br>
+Artic CTF (windows)
 
